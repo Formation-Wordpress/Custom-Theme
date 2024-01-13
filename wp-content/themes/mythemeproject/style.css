@@ -1,0 +1,49 @@
+/*
+Theme Name: My Theme Project
+Theme URI: http://wordpress_project.test/
+Author: ZendVN Wordpress Project
+Author URI: https://zendvn.com/
+Description: Theme proposed by ZendVN for the online formation of Wordpress
+Requires at least: 
+Tested up to: 
+Requires PHP:
+Version: 1.0
+License: ZendVN
+License URI: https://zendvn.com/
+Text Domain: mythemeproject
+Tags: zendvn, theme, wordpress, online, formation
+*/
+
+/* ko nen de gia tri Template: .... */
+
+#content .entry-title {
+    color: #000;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.3em;
+    margin-bottom: 0;
+}
+
+.entry-content, .entry-summary {
+    clear: both;
+    padding: 12px 0 0 0;
+}
+
+.entry-content label {
+    color: #777;
+    font-size: 12px;
+}
+
+#content, #content input, #content textarea {
+    color: #333;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+#content #searchform #s {
+    display: inline-block;
+}
+
+#content #searchform #searchsubmit {
+    margin-bottom: 5rem;
+}

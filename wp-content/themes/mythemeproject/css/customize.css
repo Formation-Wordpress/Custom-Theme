@@ -1,0 +1,58 @@
+
+.post-top-ad img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.wp-block-embed {
+    margin: 10px 0 16px 0 ;
+}
+
+.wp-block-gallery {
+    margin: 10px 0 16px 0 ;
+}
+
+.comment-navigation {
+    margin-bottom: 20px;
+}
+.loop-entry-thumbnail img {
+    display: block;
+    width: 100%;
+    aspect-ratio: calc(620/350);
+}
+.archive-featured-post img {
+    display: block;
+    aspect-ratio: calc(620/350);
+}
+
+.register-form .customize-success {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #205921;
+}
+/* .user-forms .mismatch {
+    color: #383d41;
+    background-color: #e2e3e5;
+    border-color: #d6d8db;
+}
+.user-forms .short {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+.user-forms .bad {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+.user-forms .good {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+.user-forms .high {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+} */
