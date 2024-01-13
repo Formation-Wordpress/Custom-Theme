@@ -29,6 +29,9 @@
 ## Search Page
 ![search_page](https://github.com/Formation-Wordpress/Custom-Theme-Wordpress/assets/107623849/1b6f1133-3799-4bb4-b0d3-1333f8f58890)
 
+## Comments
+![comments](https://github.com/Formation-Wordpress/Custom-Theme-Wordpress/assets/107623849/ce3e630a-bafd-4e61-b3a8-f653c5043032)
+
 ## Gérer la publicité
 ![custom_Ads](https://github.com/Formation-Wordpress/Custom-Theme-Wordpress/assets/107623849/552e592d-a386-4a0d-80b2-1223a810077d)
 
