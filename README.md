@@ -1,7 +1,17 @@
 # Custom-Theme-Wordpress
 ### Path: dans le dossier /wp-content/themes/mythemeproject
-
-          
+          - Initier le projet.
+          - Widgets (coder, customiser).
+          - Banner de publicité (coder, customiser).
+          - Menus (coder, customiser).
+          - Pages (Homepage, Category, Post, search, archive, login, inscription, envoie d'email, Google Map, page de contact, ...).
+          - Posts (format : standard, audio, video, gallery).
+          - Template page.
+          - Pagination.
+          - Comment in the Post (coder, customiser, pagination).
+          - ...
+## Voici quelques images de présentation du Thème:
+## Login Registration Page:
 ![1](https://github.com/Formation-Wordpress/Custom-Theme-Wordpress/assets/107623849/dc00c6b2-541d-4f7f-bae8-5d92644a3dc4)
 ![2](https://github.com/Formation-Wordpress/Custom-Theme-Wordpress/assets/107623849/f9d8d68d-9c3e-47aa-8827-817bae51fd07)
 ![3](https://github.com/Formation-Wordpress/Custom-Theme-Wordpress/assets/107623849/f7517428-f999-4d51-98af-4c42bfcc8abf)
@@ -10,7 +20,7 @@
 ## Homepage
 ![homepage](https://github.com/Formation-Wordpress/Custom-Theme-Wordpress/assets/107623849/ffb1b9f3-00c2-4306-b966-9acfd1dfb754)
 
-## Category
+## Catégory
 ![Category](https://github.com/Formation-Wordpress/Custom-Theme-Wordpress/assets/107623849/cc04e31c-c323-444d-8fce-d0acb2823c93)
 
 ## Post Page
